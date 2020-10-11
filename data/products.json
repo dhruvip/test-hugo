@@ -1,0 +1,34 @@
+[
+    {
+      "id": "METAL_GREEN_EYE",
+      "name": "Metal Green Eye",
+      "price": 299.95,
+      "image": "/images/METAL_GREEN_EYE.jpeg",
+      "description": "Green metal earring with a golden eye embossed on it giving a funky yet tribal look. Best paired with a plain light coloured kurti  ",
+      "product_url": "http://snipcart-hugo-forestery.netlify.com"
+    },
+    {
+        "id": "OVERHEAD_BULB",
+        "name": "Oxidized jumka plain",
+        "price": 299.95,
+        "image": "/images/OVERHEAD_BULB.jpeg",
+        "description": "Plain at first sight, this simple jumka brings out the elegance in any traditional attire",
+        "product_url": "http://snipcart-hugo-forestery.netlify.com"
+    },
+    {
+        "id": "VADAPAV",
+        "name": "Stacked Red Beads",
+        "price": 2.95,
+        "image": "/images/VADAPAV.jpeg",
+        "description": "The plain yet comfortable style of ths earring brings out the muted work and designs of your traditional attire and sometimes even your face ",
+        "product_url": "http://snipcart-hugo-forestery.netlify.com"
+    },
+    {
+        "id": "PATANG",
+        "name": "Oxidized Kite Earring",
+        "price": 2.95,
+        "image": "/images/PATANG.jpeg",
+        "description": "The angular design of the earring goes best with the angular faces and sharp feature. Together you and earring will be able to cut thru' anything ",
+        "product_url": "http://snipcart-hugo-forestery.netlify.com"
+    }      
+]
